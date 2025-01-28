@@ -1,5 +1,6 @@
 ## Hallo 👋, I am Bagus Setiawan
-Hi, I'm Bagus Setiawan, a professional in Cybersecurity, Networking, and Information Technology. Here, I love share insights, experiences, and knowledge on the challenges and solutions in the digital world—ranging from protecting personal data to securing systems and applications in an ever-evolving technological landscape. Explore, Learn, and Stay Secure!
+Hi, I'm Bagus Setiawan, a professional in Cybersecurity, Networking, and Information Technology. Here, I love share insights, experiences, and knowledge on the challenges and solutions in the digital world—ranging from protecting personal data to securing systems and applications in an ever-evolving technological landscape. 
+Explore, Learn, and Stay Secure!
 # 💫About Me :
 - 🌱 I’m currently learning Malware Analysis, Reverse Engineering, Threat Hunting, Threat Intelligence, Penetration Testing, Incident Response, Digital Forensics
 - 👯 I’m looking to collaborate on Github or Medium
