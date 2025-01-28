@@ -1,13 +1,10 @@
 ## Hallo 👋, I am Bagus Setiawan
-### I love Cyber Security
-I am a Security Operation Center professional with skills and expertise in Cyber Security. With a main focus on threat hunting, cyber threat intelligence, malware analysis, incident response, and penetration testing, I am a person who loves to learn new things related to cyber security.
+Hi, I'm Bagus Setiawan, a professional in Cybersecurity, Networking, and Information Technology. Here, I love share insights, experiences, and knowledge on the challenges and solutions in the digital world—ranging from protecting personal data to securing systems and applications in an ever-evolving technological landscape. Explore, Learn, and Stay Secure!
 # 💫About Me :
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Malware Analysis, Reverse Engineering, Threat Hunting, Penetration Testing, Incident Response, Digital Forensics
+- 🌱 I’m currently learning Malware Analysis, Reverse Engineering, Threat Hunting, Threat Intelligence, Penetration Testing, Incident Response, Digital Forensics
 - 👯 I’m looking to collaborate on Github or Medium
-- 💬 Ask me about Linux, Network Security, Malware, Threat Hunting, Digital Forensics
+- 💬 Ask me about Linux, Network Security, Malware, Threat Hunting, Threat Intelligence and Digital Forensics
 - 📫 How to reach me: Bagustri71@gmail.com
-- 😄 Pronouns: Bagus
 
 ### ✍️My Favorite Quote
 “If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions.” 
